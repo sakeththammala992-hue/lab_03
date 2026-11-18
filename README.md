@@ -7,7 +7,7 @@
 
 ## Live Link
 
-lab-03-tu4z.vercel.app
+lab-03-alpha.vercel.app
 
 ## What this lab does
 
